@@ -1,4 +1,4 @@
-👋 Hi, I’m Federico, MSc student in Data Science at University of Verona interested in how ML can be applied to clinical research to fight cancer.
+👋 Hi, I’m Federico, MSc student in Data Science at University of Verona interested in how ML can be applied to clinical research.
 
 - 📫 For any question drop me an email: federico.scognami@gmail.com
 
