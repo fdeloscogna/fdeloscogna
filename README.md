@@ -1,6 +1,6 @@
 👋 Hi, I’m Federico, MSc student in Data Science at University of Verona interested in how Data and ML methods can improve clinical research. 
 My interests lie in applied Machine Learning, biostatistics and broadcasting.
-<!-- , my university backgroung is Economics and Statistics (Bsc) and Data Science (Msc). -->
+Education and university backgroung is Economics and Statistics (Bsc) and Data Science (Msc).
 
 <hr>
 <p align=center>
