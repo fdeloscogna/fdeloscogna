@@ -1,6 +1,6 @@
-👋 Hi, I’m Federico, MSc student in Data Science at University of Verona interested in how Data and ML methods can improve clinical research. 
+👋 Hi, I’m Federico, MSc student in Data Science at University of Verona conducting research in how Data and ML methods can improve clinical research at Padua University Hospital with AIRC (Italian Association of Cancer Research).  
 My interests lie in applied Machine Learning, biostatistics and broadcasting.
-Education and university backgroung is Economics and Statistics (Bsc) and Data Science (Msc).
+Education and university backgroung is Economics and Statistics (Bsc).
 
 <hr>
 <p align=center>
