@@ -25,11 +25,3 @@ Education and university backgroung is Economics and Statistics (Bsc).
 📫 Feel free to reach on your preferred platform if you want to collaborate on something!
 
 
-<!---
-PierBeneventano/PierBeneventano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-
