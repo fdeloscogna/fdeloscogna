@@ -12,7 +12,8 @@ My interests lie in applied Machine Learning, biostatistics and broadcasting.
       <img height="20" width="20" src="./assets/icons/graduation.svg" /> <a class="contact-link"href="https://scholar.google.com/citations?user=spL439oAAAAJ&hl=en"> Google Scholar</a>
       <img height="20" width="20" src="./assets/icons/user.svg" /> <a class="contact-link"href="https://pierbeneventano.github.io/CV/CV_Beneventano.pdf"> Curriculum vitae</a> -->
       <p align=center>
-      <a href="https://www.linkedin.com/in/federico-scognamiglio/">linkedin</a> &nbsp  &nbsp  
+      <a href="https://www.linkedin.com/in/federico-scognamiglio/">linkedin</a> &nbsp  &nbsp
+      <a href="https://www.researchgate.net/profile/Federico-Scognamiglio">ResearchGate</a> &nbsp  &nbsp 
       <a href="https://scholar.google.it/citations?user=xk0Wj-0AAAAJ&hl=it&oi=ao#">Google scholar</a> &nbsp  &nbsp 
       </p>
   </div>
