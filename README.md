@@ -13,6 +13,7 @@ My interests lie in applied Machine Learning, biostatistics and broadcasting.
       <p align=center>
       <a href="https://www.linkedin.com/in/federico-scognamiglio/">linkedin</a> &nbsp  &nbsp
       <a href="https://www.researchgate.net/profile/Federico-Scognamiglio">ResearchGate</a> &nbsp  &nbsp 
+      <a href="https://www.researchgate.net/profile/Federico-Scognamiglio">Medium</a> &nbsp  &nbsp 
       <a href="https://scholar.google.it/citations?user=xk0Wj-0AAAAJ&hl=it&oi=ao#">Google scholar</a> &nbsp  &nbsp 
       </p>
   </div>
