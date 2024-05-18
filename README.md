@@ -22,6 +22,23 @@ My interests lie in applied Machine Learning, biostatistics and broadcasting.
 
 🌱 I’m currently learning to understand how to manage small data in clinical research
 
-📫 Feel free to reach on your preferred platform if you want to collaborate on something!
+├─🚀 Federico in a Nutshell:
+│ ├─💼 Career  
+│ │ ├─ Padua University Hospital / Statistician 
+│ │ ├─ ThyssenKrupp Technologies/ Intern
+│ │ ├─ University of Turin / Intern in Data Science
+│ └─📚 Education  
+│   ├─ University of Verona / MSc Data Science 
+│   └─ University of Turin/ BSc Statistics & Economics  
+├─📦 Projects  
+│ ├─ Cuochi Senza Fuochi - Founder of a group with member coming from different city
+│ ─> or country can meet, know each other and share experience while
+│ ─> cooking dessert without any money or experience in Padua  
+└─💡 Volunteering  
+   ├─ Medics with Africa CUAMM - Broadcaster 
+   ├─ Medium - Blogging about Data Science
+   ├─ Centro Studi Italia Canada - Writer about Canadian AI initiative  
+
+
 
 
