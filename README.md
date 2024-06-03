@@ -33,7 +33,7 @@ If you have interests too in applied ML, Healthcare and pharma innovation, biost
       <a href="https://www.researchgate.net/profile/Federico-Scognamiglio">ResearchGate</a> &nbsp  &nbsp 
       <a href="https://federico-scognamiglio.medium.com">Medium</a> &nbsp  &nbsp 
       <a href="https://scholar.google.it/citations?user=xk0Wj-0AAAAJ&hl=it&oi=ao#">Google scholar</a> &nbsp  &nbsp
-      <a href="https://github.com/fdeloscogna/Blog/deployments/github-pages">Personal Site</a> &nbsp  &nbsp 
+      <a href="https://fdeloscogna.github.io/Blog/">Personal Site</a> &nbsp  &nbsp 
       </p>
   </div>
 </div>
