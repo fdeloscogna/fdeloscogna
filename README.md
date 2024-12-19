@@ -3,7 +3,7 @@ If you have interests too in applied ML, Healthcare and pharma innovation, biost
 
 ├─🚀 Federico in a Nutshell:
 │ ├─💼 Career  
-│ │ ├─ Padua University Hospital / Statistician 
+│ │ ├─ Padua University Hospital / Data analyst 
 │ │ ├─ ThyssenKrupp Technologies/ Intern
 │ │ ├─ University of Turin / Intern in Data Science
 │ └─📚 Education  
