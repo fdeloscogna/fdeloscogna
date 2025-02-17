@@ -4,13 +4,16 @@ If you have interests too in applied ML, Healthcare and pharma innovation, biost
 ├─🚀 Federico in a Nutshell:
 │ ├─💼 Career  
 │ │ ├─ Padua University Hospital / Data analyst 
+│ │ ├─ Past:
+│ │ ├─ Needleye Robotics startup - External consultant for a robotics surgery startup
+│ │ ├─ Mainz University (DE) - Healthcare analytics consultant
 │ │ ├─ ThyssenKrupp Technologies/ Intern
 │ │ ├─ University of Turin / Intern in Data Science
 │ └─📚 Education  
 │   ├─ University of Verona / MSc Data Science 
 │   └─ University of Turin/ BSc Statistics & Economics  
 ├─📦 Projects  
-│ ├─ Cuochi Senza Fuochi - Founder of a group with member coming from different city
+│ ├─ Cuochi Senza Fuochi - Founder of a a co-living spin-off with member coming from different city
 │ ─> or country can meet, know each other and share experience while
 │ ─> cooking dessert without any money or experience in Padua  
 └─💡 Volunteering  
