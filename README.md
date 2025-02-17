@@ -1,4 +1,5 @@
-👋 Hi, I’m Federico, MSc graduate in Data Science at University of Verona conducting research in how Data and ML methods can improve clinical research at Padua University Hospital with AIRC (Italian Association of Cancer Research) and from June 2024 also with Cardioimmunology projects. 
+👋 Hi, I’m Federico, MSc graduate in Data Science at University of Verona conducting research in how Data and ML methods can improve clinical research at Padua University Hospital with Cardioimmunology projects. 
+
 If you have interests too in applied ML, Healthcare and pharma innovation, biostatistics and broadcasting, we have already sommething in common.
 
 ├─🚀 Federico in a Nutshell:
